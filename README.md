@@ -6,7 +6,7 @@
 - 🎓 Background in Healthcare in my Bachelor's Degree and AI and ML in my Master's Degree
 - 🌱 Currently working on Computer vision and Data Engineering tasks
 - 👯 Looking to contribute more to the healthcare sector with my skills and experiences
-- 💡 Interests: Coding, Cooking
+- 💡 Former Kaggle X member
 - 📫 Contact me at: [chiemelachinedum2@gmail.com]
 
 ## 🚀 Most Used Languages
