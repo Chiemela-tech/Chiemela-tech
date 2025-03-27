@@ -9,9 +9,6 @@
 - 💡 Interests: Coding, Cooking
 - 📫 Contact me at: [chiemelachinedum2@gmail.com]
 
-## 🔥 My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chiemela-tech&show_icons=true&theme=dark)
-
 ## 🚀 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiemela-tech&layout=compact)
 
